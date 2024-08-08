@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, <br>I'm Prasun </h1>
-<h3 align="center">A Passionate Coder and Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasunparate&label=Profile%20views&color=0e75b6&style=flat" alt="prasunparate" /> </p>
 
