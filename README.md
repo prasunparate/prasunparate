@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/prasun-kumar-parate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasun-kumar-parate" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13364316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13364316" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prasun_parate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasun_parate" height="30" width="40" /></a>
-</a href="https://leetcode.com/u/prasun_parate/" target="blank"></img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasun_parate" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/prasun_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasun_parate" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@prasun_parate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prasun_parate" height="30" width="40" /></a>
 </p>
 
